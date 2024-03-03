@@ -129,10 +129,10 @@
 <section class="footer_section">
   <div class="container">
     <p>
-      &copy; <span id="displayYear"></span> All Rights Reserved By
-      <a href="https://html.design/">TUMHARA BAAP!!</a>
+      &copy; <span id="displayYear"></span> All Rights Reserved!
+      <a href="https://html.design/"></a>
       Distributed By
-      <a href="https://themewagon.com">GWagon</a>
+      <a href="https://themewagon.com">Madhav Kabra</a>
     </p>
   </div>
 </section>
